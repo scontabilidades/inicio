@@ -5,6 +5,19 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+  color: rgb(0, 162, 255);
+}
+size{
+  font-size: 25px;
+  color: rgb(66, 66, 66);
+}
+#size{
+  font-size: 25px;
+  color: rgb(66, 66, 66);
+}
+#black{
+  color: rgb(66, 66, 66);
+  font-size: 25px;
 }
 br{
   user-select: none;
@@ -33,13 +46,8 @@ img{
 banner{
   font-size: 25px;
 }
-spock{
-  font-size: 30px;
-}
-/*index-a*/
-.index-a{
-  text-align: ;
-}
-#index-a{
-  text-align: ;
+/*texta*/
+.texta{
+  font-size: 20px;
+  padding: 25px;
 }
